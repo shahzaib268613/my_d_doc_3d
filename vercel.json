@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/v4",
+      "destination": "/my-diabetes-doc.html"
+    }
+  ]
+}
